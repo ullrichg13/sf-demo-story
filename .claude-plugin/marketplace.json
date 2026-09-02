@@ -1,0 +1,17 @@
+{
+  "name": "demo-story",
+  "description": "Story-driven demo prep companion for SF Demo Scout — brief intake, talk tracks, rehearsal",
+  "owner": {
+    "name": "Gary Ullrich"
+  },
+  "plugins": [
+    {
+      "name": "sf-demo-story",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/ullrichg13/sf-demo-story.git"
+      },
+      "description": "Story layer for SF Demo Scout — brief intake into sparring, talk track + rehearsal after building"
+    }
+  ]
+}
