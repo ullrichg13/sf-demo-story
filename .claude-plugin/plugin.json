@@ -1,0 +1,8 @@
+{
+  "name": "sf-demo-story",
+  "description": "Story layer for SF Demo Scout — takes an approved Demo Brief into Scout sparring without re-interviewing, then produces the talk track and rehearsal support after Scout builds.",
+  "version": "2026.09.01",
+  "author": {
+    "name": "Gary Ullrich"
+  }
+}
