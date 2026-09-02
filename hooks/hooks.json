@@ -1,0 +1,16 @@
+{
+  "description": "sf-demo-story session-startup nudge: surfaces org folders with an approved brief but no spec, or a build but no talk track",
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"${CLAUDE_PLUGIN_ROOT}/hooks/session-startup.sh\"",
+            "timeout": 5
+          }
+        ]
+      }
+    ]
+  }
+}
